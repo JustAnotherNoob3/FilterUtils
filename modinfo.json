@@ -1,0 +1,11 @@
+{
+  "HarmonyId": "JAN.filterutils",
+  "DisplayName": "Filter Utils",
+  "Authors": [
+    "JustAnotherNoob"
+  ],
+  "Discord": "https://discord.gg/ht8ttc3R8E",
+  "Description": "Improvements to the Filter System of the game!",
+  "Version": "1.0.0",
+  "RequiredMods": ["JAN.modpagelib"]
+}

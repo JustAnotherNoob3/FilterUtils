@@ -1,0 +1,15 @@
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\bin\Debug\netstandard2.0\FilterUtils.deps.json
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\bin\Debug\netstandard2.0\FilterUtils.dll
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\bin\Debug\netstandard2.0\FilterUtils.pdb
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\bin\Debug\netstandard2.0\SalemModLoader.dll
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\bin\Debug\netstandard2.0\Unity.TextMeshPro.dll
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\obj\Debug\netstandard2.0\FilterUtils.csproj.AssemblyReference.cache
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\obj\Debug\netstandard2.0\FilterUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\obj\Debug\netstandard2.0\FilterUtils.AssemblyInfoInputs.cache
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\obj\Debug\netstandard2.0\FilterUtils.AssemblyInfo.cs
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\obj\Debug\netstandard2.0\FilterUtils.csproj.CoreCompileInputs.cache
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\obj\Debug\netstandard2.0\FilterUtils.csproj.CopyComplete
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\obj\Debug\netstandard2.0\FilterUtils.dll
+D:\Apps\JAN's stuff\ToS 2\FiltersUtils\obj\Debug\netstandard2.0\FilterUtils.pdb
